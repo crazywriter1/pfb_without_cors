@@ -9,11 +9,11 @@
 
 ## 2. Step (allow Port)
 
-'sudo apt install ufw -y'
+`sudo apt install ufw -y`
 
-'sudo ufw allow 8080'
+`sudo ufw allow 8080`
 
-'sudo ufw enable'
+`sudo ufw enable`
 
 # 3. Check Port Status
 
