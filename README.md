@@ -35,5 +35,23 @@
 
 ![WhatsApp Image 2023-05-14 at 19 30 28](https://github.com/crazywriter1/pfb_without_cors/assets/53251494/226d2d0f-fb0f-49b0-b47f-3b387cfdb65c)
 
+
+## Using on UI GUİDE (Screenshots)
+
+# Step 1
+![output4](https://github.com/crazywriter1/pfb_without_cors/assets/53251494/5607cb4e-1d6c-40e5-a662-6ec4f432ca5f)
+
+# Step 2
+![Output5](https://github.com/crazywriter1/pfb_without_cors/assets/53251494/37b56424-5910-4263-a85b-8e3731598494)
+
+# Step 3
+This is how its look like in the node
+![output6](https://github.com/crazywriter1/pfb_without_cors/assets/53251494/260b087a-dc10-4f95-a853-8bc52a7f6d91)
+
+
 # Note
 ### Do not close the program if you are using the website.
+
+LİNKS;
+http://pfbsubmit-celestia.com/
+https://github.com/crazywriter1/payforblob (UI and old version(cors)
