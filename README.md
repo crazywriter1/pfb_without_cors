@@ -52,6 +52,7 @@ This is how its look like in the node
 # Note
 ### Do not close the program if you are using the website.
 
-LİNKS;
+# LİNKS;
 http://pfbsubmit-celestia.com/
+
 https://github.com/crazywriter1/payforblob (UI and old version(cors)
