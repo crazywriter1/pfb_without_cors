@@ -7,11 +7,23 @@
 
 `git clone https://github.com/crazywriter1/pfb_without_cors `
 
-## 2. Step (Install Packages)
+## 2. Step (allow Port)
+
+`sudo ufw allow 8080`
+
+# 3. Check Port Status
+
+`sudo ufw status`
+
+# 4. Change Directory (cd)
+
+`cd pfb_without_cors`
+
+## 5. Step (Install Packages)
 
 `go mod tidy`
 
-## 3. Step (Run)
+## 6. Step (Run)
 
 `go run main.go`
 
