@@ -44,7 +44,7 @@
 # Step 2
 ![Output5](https://github.com/crazywriter1/pfb_without_cors/assets/53251494/37b56424-5910-4263-a85b-8e3731598494)
 
-# Step 3
+# Result
 This is how its look like in the node
 ![output6](https://github.com/crazywriter1/pfb_without_cors/assets/53251494/260b087a-dc10-4f95-a853-8bc52a7f6d91)
 
